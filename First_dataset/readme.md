@@ -10,6 +10,7 @@ First dataset folder structure:
 
 6. friends, followees and followers folders contains followers, followees and friends files for each selected user.
 
+Second dataset is new_tweets.csv file. 
 
 
 
